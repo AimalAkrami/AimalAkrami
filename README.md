@@ -5,7 +5,7 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://linkedin.com/in/aimalakrami" target="blank">LinkedIn: Aimal Akrami</a>
+<a href="https://www.linkedin.com/in/aimal-akrami-91949729a/" target="blank">LinkedIn</a>
 </p>
 
 <h5 align="left">Languages and Tools:</h5>
