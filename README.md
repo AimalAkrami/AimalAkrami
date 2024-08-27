@@ -3,9 +3,12 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
+<a target="blank">aimal.akramii@gmail.com</a> <br>
 <a href="https://www.linkedin.com/in/aimal-akrami-91949729a/" target="blank">LinkedIn</a> <br>
 <a href="https://wa.me/qr/NUZFT7223PH2O1" target="blank">WhatsApp</a> <br>
-<a target="blank">aimal.akramii@gmail.com</a>
+<a href="https://www.facebook.com/share/B6CrPxNdYkkmiSoV/?mibextid=qi2Omg" target="blank">Facebook</a> <br>
+<a href="https://www.instagram.com/aimal.akrami?igsh=NWduOHpwam1xa2hu" target="blank">Instagram</a> <br>
+
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
