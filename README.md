@@ -13,5 +13,5 @@
 
 <h4 align="left">Languages and Tools:</h4>
 <p> 
-  Angular | Spring Boot | Postgres | mySql | Bootstrap
+  Angular | Spring Boot | Postgres | mySql | Bootstrap<a href="https://stackoverflow.com/users/27242263/aimal-akrami"><img src="https://stackoverflow.com/users/flair/27242263.png" width="208" height="58" alt="profile for Aimal Akrami at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aimal Akrami at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
